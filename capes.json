@@ -28,5 +28,15 @@
     "id": "moonlight_cape",
     "name": "Moonlight Trail Cape",
     "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_Moon_MoonlightTrail_2ee52d6b17eb353d25e2b6be4ddbb2c5.png"
+  },
+  {
+    "id": "pan_cape",
+    "name": "Pan Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_Java Edition_Free_a60d608f0cac6ad8c50f2258b6c4db92.png"
+  },
+  {
+    "id": "15thanni_cape",
+    "name": "15th Anniversary Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_Creeper_Anniversary_e7447a28eb5d03b01dee9f6710937eb2.png"
   }
 ]

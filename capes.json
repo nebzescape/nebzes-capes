@@ -13,5 +13,10 @@
     "id": "hero_cape",
     "name": "Hero Cape",
     "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_f79519de0b675620d2faaf4dc8874d69.png"
-  } 
+  },
+     {
+    "id": "founders_cape",
+    "name": "Founder's Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_Minecraft_Creeper_d5ee5a6faa064d9abec47bcaa672f2c4.png"
+  }
 ]

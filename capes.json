@@ -38,5 +38,10 @@
     "id": "thanniversary_cape",
     "name": "15th Anniversary Cape",
     "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_Creeper_Anniversary_e7447a28eb5d03b01dee9f6710937eb2.png"
+  },
+  {
+    "id": "common_cape",
+    "name": "Common Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_Common_Grass_32f3de244a170452245ee509491f6f1e.png"
   }
 ]

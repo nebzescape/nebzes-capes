@@ -43,5 +43,10 @@
     "id": "common_cape",
     "name": "Common Cape",
     "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_Common_Grass_32f3de244a170452245ee509491f6f1e.png"
+  },
+  {
+    "id": "vanilla_cape",
+    "name": "Vanilla Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_VanillaCape_Vanilla_21c9cf811d476ae1c4e58f3cceace025.png"
   }
 ]

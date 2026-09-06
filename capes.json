@@ -48,5 +48,10 @@
     "id": "vanilla_cape",
     "name": "Vanilla Cape",
     "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_VanillaCape_Vanilla_21c9cf811d476ae1c4e58f3cceace025.png"
+  },
+  {
+    "id": "minecon2011_cape",
+    "name": "MineCon 2011 Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_Minecon2011_Minecon_00f15c80c9ab3540477210d4e58af337.png"
   }
 ]

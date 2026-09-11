@@ -38,5 +38,55 @@
     "id": "followers_cape",
     "name": "Follower's Cape",
     "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Followers.png"
+  },
+  {
+    "id": "menace_cape",
+    "name": "Menace Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Menace.png"
+  },
+  {
+    "id": "home_cape",
+    "name": "Home Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Home.png"
+  },
+  {
+    "id": "copper_cape",
+    "name": "Copper Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Copper.png"
+  },
+  {
+    "id": "mojangoffice_cape",
+    "name": "Mojang Office Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/MojangOffice.png"
+  },
+  {
+    "id": "yearn_cape",
+    "name": "Yearn Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Yearn.png"
+  },
+  {
+    "id": "founders_cape",
+    "name": "Founder's Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Founders.png"
+  },
+  {
+    "id": "zombiehorse_cape",
+    "name": "Zombie Horse Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/ZombieHorse.png"
+  },
+  {
+    "id": "builder_cape",
+    "name": "Builder Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Builder.png"
+  },
+  {
+    "id": "mcc15th_cape",
+    "name": "MCC 15th Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/MCC15th.png"
+  },
+  {
+    "id": "minecraftexperience_cape",
+    "name": "Minecraft Experience Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/MinecraftExperience.png"
   }
 ]

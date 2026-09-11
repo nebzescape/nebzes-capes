@@ -88,5 +88,35 @@
     "id": "minecraftexperience_cape",
     "name": "Minecraft Experience Cape",
     "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/MinecraftExperience.png"
+  },
+  {
+    "id": "moonlighttrail_cape",
+    "name": "Moonlight Trail Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/MoonlightTrail.png"
+  },
+  {
+    "id": "minecon2016_cape",
+    "name": "MineCon 2016 Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/MineCon2016.png"
+  },
+  {
+    "id": "minecon2015_cape",
+    "name": "MineCon 2015 Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/MineCon2015.png"
+  },
+  {
+    "id": "minecon2013_cape",
+    "name": "MineCon 2013 Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/MineCon2013.png"
+  },
+  {
+    "id": "crafter_cape",
+    "name": "Crafter Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Crafter.png"
+  },
+  {
+    "id": "minecon2012_cape",
+    "name": "MineCon 2012 Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/MineCon2012.png"
   }
 ]

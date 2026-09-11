@@ -3,5 +3,40 @@
     "id": "migrator_cape",
     "name": "Migrator Cape",
     "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Migrator.png"
+  },
+  {
+    "id": "pan_cape",
+    "name": "Pan Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Pan.png"
+  },
+  {
+    "id": "15thanniversary_cape",
+    "name": "15th Anniversary Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/15thAnniversary.png"
+  },
+  {
+    "id": "common_cape",
+    "name": "Common Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Common.png"
+  },
+  {
+    "id": "vanilla_cape",
+    "name": "Vanilla Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Vanilla.png"
+  },
+  {
+    "id": "cherryblossom_cape",
+    "name": "Cherry Blossom Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/CherryBlossom.png"
+  },
+  {
+    "id": "purpleheart_cape",
+    "name": "Purple Heart Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/PurpleHeart.png"
+  },
+  {
+    "id": "followers_cape",
+    "name": "Follower's Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Followers.png"
   }
 ]

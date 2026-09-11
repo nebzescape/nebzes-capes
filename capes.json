@@ -1,57 +1,7 @@
 [
   {
-    "id": "microsoft_migration",
-    "name": "Migration Cape",
-    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_Microsoft_Migration_5b37a01fde6a3e075f3bc5694c18e667.png"
-  },
-  {
-    "id": "twisted_cape",
-    "name": "Twisted Cape",
-    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_Warden_MinecraftCape_4b4ef31fd6311ff2205fd9599d7c9112.png"
-  },
-   {
-    "id": "hero_cape",
-    "name": "Hero Cape",
-    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_f79519de0b675620d2faaf4dc8874d69.png"
-  },
-     {
-    "id": "founders_cape",
-    "name": "Founder's Cape",
-    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_Minecraft_Creeper_d5ee5a6faa064d9abec47bcaa672f2c4.png"
-  },
-  {
-    "id": "minecon2016_cape",
-    "name": "MineCon 2016 Cape",
-    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_Minecon_Enderman_de4a8ad0267f4fc0f41a732ebcf10ec9.png"
-  },
-  {
-    "id": "moonlight_cape",
-    "name": "Moonlight Trail Cape",
-    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_Moon_MoonlightTrail_2ee52d6b17eb353d25e2b6be4ddbb2c5.png"
-  },
-  {
-    "id": "pan_cape",
-    "name": "Pan Cape",
-    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_JavaEdition_Free_a60d608f0cac6ad8c50f2258b6c4db92.png"
-  },
-  {
-    "id": "thanniversary_cape",
-    "name": "15th Anniversary Cape",
-    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_Creeper_Anniversary_e7447a28eb5d03b01dee9f6710937eb2.png"
-  },
-  {
-    "id": "common_cape",
-    "name": "Common Cape",
-    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_Common_Grass_32f3de244a170452245ee509491f6f1e.png"
-  },
-  {
-    "id": "vanilla_cape",
-    "name": "Vanilla Cape",
-    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_VanillaCape_Vanilla_21c9cf811d476ae1c4e58f3cceace025.png"
-  },
-  {
-    "id": "minecon2011_cape",
-    "name": "MineCon 2011 Cape",
-    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/cape_Minecon2011_Minecon_00f15c80c9ab3540477210d4e58af337.png"
+    "id": "migrator_cape",
+    "name": "Migrator Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Migrator.png"
   }
 ]

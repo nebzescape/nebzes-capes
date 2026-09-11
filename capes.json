@@ -118,5 +118,115 @@
     "id": "minecon2012_cape",
     "name": "MineCon 2012 Cape",
     "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/MineCon2012.png"
+  },
+  {
+    "id": "minecon2011_cape",
+    "name": "MineCon 2011 Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/MineCon2011.png"
+  },
+  {
+    "id": "mojang_cape",
+    "name": "Mojang Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Mojang.png"
+  },
+  {
+    "id": "realmsmapmaker_cape",
+    "name": "Realms Mapmaker Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/RealmsMapmaker.png"
+  },
+  {
+    "id": "mojangstudios_cape",
+    "name": "Mojang Studios Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/MojangStudios.png"
+  },
+  {
+    "id": "translator_cape",
+    "name": "Translator Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Translator.png"
+  },
+  {
+    "id": "mojiramoderator_cape",
+    "name": "Mojira Moderator Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/MojiraModerator.png"
+  },
+  {
+    "id": "mojangclassic_cape",
+    "name": "Mojang Classic Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/MojangClassic.png"
+  },
+  {
+    "id": "cobalt_cape",
+    "name": "Cobalt Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Cobalt.png"
+  },
+  {
+    "id": "scrolls_cape",
+    "name": "Scrolls Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Scrolls.png"
+  },
+  {
+    "id": "turtle_cape",
+    "name": "Turtle Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Turtle.png"
+  },
+  {
+    "id": "test_cape",
+    "name": "Test Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Test.png"
+  },
+  {
+    "id": "valentine_cape",
+    "name": "Valentine Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Valentine.png"
+  },
+  {
+    "id": "blueprintcape",
+    "name": "Blueprint Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Blueprint.png"
+  },
+  {
+    "id": "oxeye_cape",
+    "name": "Oxeye Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Oxeye.png"
+  },
+  {
+    "id": "birthday_cape",
+    "name": "Birthday Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Birthday.png"
+  },
+  {
+    "id": "spade_cape",
+    "name": "Spade Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Spade.png"
+  },
+  {
+    "id": "snowman_cape",
+    "name": "Snowman Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Snowman.png"
+  },
+  {
+    "id": "millionthcustomer_cape",
+    "name": "Millionth Customer Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/MillionthCustomer.png"
+  },
+  {
+    "id": "db_cape",
+    "name": "dB Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/dB.png"
+  },
+  {
+    "id": "prismarine_cape",
+    "name": "Prismarine Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Prismarine.png"
+  },
+  {
+    "id": "hero_cape",
+    "name": "Hero Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Hero.png"
+  },
+  {
+    "id": "twisted_cape",
+    "name": "Twisted Cape",
+    "url": "https://raw.githubusercontent.com/nebzescape/nebzes-capes/main/capes/Twisted.png"
   }
 ]
